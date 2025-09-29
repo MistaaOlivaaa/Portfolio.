@@ -2,6 +2,11 @@
 
 Welcome to my futuristic portfolio! This project showcases my skills, projects, and contact information as a Computer Science student passionate about digital experiences and innovation.
 
+
+## 🌐 Live Portfolio
+
+[View the portfolio here](https://v0-futuristic-portfolio-website-omega-blush.vercel.app/)
+
 ## 🚀 Features
 - Modern Next.js + TypeScript stack
 - Tailwind CSS for beautiful, responsive design
@@ -43,9 +48,6 @@ Welcome to my futuristic portfolio! This project showcases my skills, projects, 
 
 - GitHub: [MistaaOlivaaa](https://github.com/MistaaOlivaaa/)
 
-## 🌐 Live Portfolio
-
-[View the portfolio here](https://v0-futuristic-portfolio-website-omega-blush.vercel.app/)
 
 ## 🕒 Timezone
 - Morocco
