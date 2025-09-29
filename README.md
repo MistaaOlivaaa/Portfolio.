@@ -43,6 +43,10 @@ Welcome to my futuristic portfolio! This project showcases my skills, projects, 
 
 - GitHub: [MistaaOlivaaa](https://github.com/MistaaOlivaaa/)
 
+## 🌐 Live Portfolio
+
+[View the portfolio here](https://v0-futuristic-portfolio-website-omega-blush.vercel.app/)
+
 ## 🕒 Timezone
 - Morocco
 
