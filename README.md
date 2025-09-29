@@ -49,8 +49,4 @@ Welcome to my futuristic portfolio! This project showcases my skills, projects, 
 - GitHub: [MistaaOlivaaa](https://github.com/MistaaOlivaaa/)
 
 
-## 🕒 Timezone
-- Morocco
-
----
 
